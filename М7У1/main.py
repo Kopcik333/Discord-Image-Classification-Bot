@@ -100,4 +100,4 @@ async def predict(ctx):
         await ctx.send("Ураа, лето, каникулы. Не забудь одеть кепку и взыть с собой воды, на улице жарко.")
     elif indx == 3:
         await ctx.send("Эхх... лето кночилось пора в школу, но не унывай скоро новый год, одевай сапоги и иди в школу получать знания.")
-bot.run("MTE1NTQzODQ3NjA3NDk1ODg3OA.GGlAzT.KVIGhFy9UztQ7TOy1hRcdlP1kOzJTWTAgLHWHk")
+bot.run("id")
